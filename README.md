@@ -35,3 +35,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WHadhiri&theme=Javascript-dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+&nbsp;
+&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHadhiri&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
